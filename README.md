@@ -4,20 +4,22 @@
 
 # RuiC-PoseAtlas
 
+[**HTUltra 生图参考指南**](%E7%94%9F%E5%9B%BE%E5%8F%82%E8%80%83%E6%8C%87%E5%8D%97.md)
+
 **三图鉴 · 三语参考库**<br>
 **288 组人体姿态 / 1,439 张多角度人台线稿　　1,407 套无人衣装 / 8 个分类　　1,499 张 AI 人像 / 893 脸部 + 606 造型**
 
 中文 · English · 日本語
 
 <p>
-  <a href="https://hruiccc.github.io/RuiC-PoseAtlas/"><strong>姿势图鉴 →</strong></a> ·
-  <a href="https://hruiccc.github.io/RuiC-PoseAtlas/costume.html"><strong>衣装图鉴 →</strong></a> ·
-  <a href="https://hruiccc.github.io/RuiC-PoseAtlas/face.html"><strong>人像图鉴 →</strong></a> ·
+  <a href="https://htultra.github.io/RuiC-PoseAtlas/"><strong>姿势图鉴 →</strong></a> ·
+  <a href="https://htultra.github.io/RuiC-PoseAtlas/costume.html"><strong>衣装图鉴 →</strong></a> ·
+  <a href="https://htultra.github.io/RuiC-PoseAtlas/face.html"><strong>人像图鉴 →</strong></a> ·
   <a href="https://github.com/HRuiCcc/RuiC-PoseAtlas">GitHub 仓库</a> ·
   <a href="https://github.com/HRuiCcc/RuiC-PoseAtlas/issues">问题反馈</a>
 </p>
 
-[![demo](https://img.shields.io/badge/demo-online-2ea44f?style=flat-square)](https://hruiccc.github.io/RuiC-PoseAtlas/)
+[![demo](https://img.shields.io/badge/demo-online-2ea44f?style=flat-square)](https://htultra.github.io/RuiC-PoseAtlas/)
 ![poses](https://img.shields.io/badge/poses-288-8fb4ff?style=flat-square)
 ![images](https://img.shields.io/badge/images-1%2C439-c3d5ff?style=flat-square)
 ![outfits](https://img.shields.io/badge/outfits-1%2C407-e3c8ff?style=flat-square)
@@ -110,9 +112,9 @@
 
 ## 在线体验
 
-> **姿势图鉴：https://hruiccc.github.io/RuiC-PoseAtlas/**
-> **衣装图鉴：https://hruiccc.github.io/RuiC-PoseAtlas/costume.html**
-> **人像图鉴：https://hruiccc.github.io/RuiC-PoseAtlas/face.html**
+> **姿势图鉴：https://htultra.github.io/RuiC-PoseAtlas/**
+> **衣装图鉴：https://htultra.github.io/RuiC-PoseAtlas/costume.html**
+> **人像图鉴：https://htultra.github.io/RuiC-PoseAtlas/face.html**
 
 三个页面顶部都有切换器，来回跳转不会丢语言设置；都支持 `?lang=zh|en|ja` 与条目深链接。
 
@@ -602,9 +604,9 @@ npm run fetch-faces    # 人像：从原站下载 1,499 张原图 + 缩略图到
 
 当前地址：
 
-- 姿势图鉴：**https://hruiccc.github.io/RuiC-PoseAtlas/**
-- 衣装图鉴：**https://hruiccc.github.io/RuiC-PoseAtlas/costume.html**
-- 人像图鉴：**https://hruiccc.github.io/RuiC-PoseAtlas/face.html**
+- 姿势图鉴：**https://htultra.github.io/RuiC-PoseAtlas/**
+- 衣装图鉴：**https://htultra.github.io/RuiC-PoseAtlas/costume.html**
+- 人像图鉴：**https://htultra.github.io/RuiC-PoseAtlas/face.html**
 
 ### Cloudflare Pages（备选）
 
